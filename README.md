@@ -1,2 +1,2 @@
-# perky_steam
+# perky-steam
 Steam Engine IoT Demonstration
